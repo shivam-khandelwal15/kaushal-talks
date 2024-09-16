@@ -1,3 +1,3 @@
 # kaushal-talks
 
-This is week 1
+This is week 2
